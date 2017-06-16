@@ -3721,10 +3721,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DiplomadoXamarin\\Lab02\\BLL\\BLL.csproj",
+      "projectUniqueName": "c:\\DiplomadoXamarin\\Lab02\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\DiplomadoXamarin\\Lab02\\BLL\\BLL.csproj",
-      "outputPath": "C:\\DiplomadoXamarin\\Lab02\\BLL\\obj\\",
+      "projectPath": "c:\\DiplomadoXamarin\\Lab02\\BLL\\BLL.csproj",
+      "outputPath": "c:\\DiplomadoXamarin\\Lab02\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
@@ -3732,8 +3732,8 @@
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
-            "C:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj"
+            "c:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj": {
+              "projectPath": "c:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj"
             }
           }
         }

@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj",
+      "projectUniqueName": "c:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj",
-      "outputPath": "C:\\DiplomadoXamarin\\Lab02\\DAL\\obj\\",
+      "projectPath": "c:\\DiplomadoXamarin\\Lab02\\DAL\\DAL.csproj",
+      "outputPath": "c:\\DiplomadoXamarin\\Lab02\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"

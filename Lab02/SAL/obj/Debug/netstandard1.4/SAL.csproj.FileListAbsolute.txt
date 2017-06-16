@@ -1,7 +1,8 @@
-C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.deps.json
-C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.dll
-C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.pdb
-C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
-C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.dll
-C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.pdb
-C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.csprojResolveAssemblyReference.cache
+c:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.deps.json
+c:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.dll
+c:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.pdb
+c:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
+c:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.dll
+c:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.pdb
+c:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.dll.mdb
+c:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.dll.mdb

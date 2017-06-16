@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DiplomadoXamarin\\Lab02\\SAL\\SAL.csproj",
+      "projectUniqueName": "c:\\DiplomadoXamarin\\Lab02\\SAL\\SAL.csproj",
       "projectName": "SAL",
-      "projectPath": "C:\\DiplomadoXamarin\\Lab02\\SAL\\SAL.csproj",
-      "outputPath": "C:\\DiplomadoXamarin\\Lab02\\SAL\\obj\\",
+      "projectPath": "c:\\DiplomadoXamarin\\Lab02\\SAL\\SAL.csproj",
+      "outputPath": "c:\\DiplomadoXamarin\\Lab02\\SAL\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
