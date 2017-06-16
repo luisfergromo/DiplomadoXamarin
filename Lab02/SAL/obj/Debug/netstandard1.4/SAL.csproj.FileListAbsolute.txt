@@ -1,0 +1,6 @@
+C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.deps.json
+C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.dll
+C:\DiplomadoXamarin\Lab02\SAL\bin\Debug\netstandard1.4\SAL.pdb
+C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
+C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.dll
+C:\DiplomadoXamarin\Lab02\SAL\obj\Debug\netstandard1.4\SAL.pdb
