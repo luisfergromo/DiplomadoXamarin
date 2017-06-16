@@ -1,9 +1,0 @@
-C:\DiplomadoXamarin\Lab02\BLL\bin\Debug\netstandard1.4\BLL.deps.json
-C:\DiplomadoXamarin\Lab02\BLL\bin\Debug\netstandard1.4\BLL.dll
-C:\DiplomadoXamarin\Lab02\BLL\bin\Debug\netstandard1.4\BLL.pdb
-C:\DiplomadoXamarin\Lab02\BLL\bin\Debug\netstandard1.4\DAL.dll
-C:\DiplomadoXamarin\Lab02\BLL\bin\Debug\netstandard1.4\DAL.pdb
-C:\DiplomadoXamarin\Lab02\BLL\obj\Debug\netstandard1.4\BLL.csprojResolveAssemblyReference.cache
-C:\DiplomadoXamarin\Lab02\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
-C:\DiplomadoXamarin\Lab02\BLL\obj\Debug\netstandard1.4\BLL.dll
-C:\DiplomadoXamarin\Lab02\BLL\obj\Debug\netstandard1.4\BLL.pdb
