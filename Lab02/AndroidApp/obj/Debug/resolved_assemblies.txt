@@ -9,7 +9,6 @@ c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\PInvoke.BCrypt.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\PInvoke.Kernel32.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\PInvoke.NCrypt.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\PInvoke.Windows.Core.dll
-c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\SALLab02.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Net.Http.Extensions.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\Validation.dll
@@ -38,6 +37,7 @@ c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Net.Http.dl
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Xml.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Xml.Linq.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\SAL.dll
+c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\SALLab02.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Runtime.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 c:\DiplomadoXamarin\Lab02\AndroidApp\obj\Debug\android\assets\System.Resources.ResourceManager.dll

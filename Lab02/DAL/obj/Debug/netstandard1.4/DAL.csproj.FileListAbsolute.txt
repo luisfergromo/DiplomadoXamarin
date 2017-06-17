@@ -4,5 +4,6 @@ c:\DiplomadoXamarin\Lab02\DAL\bin\Debug\netstandard1.4\DAL.pdb
 c:\DiplomadoXamarin\Lab02\DAL\obj\Debug\netstandard1.4\DAL.AssemblyInfo.cs
 c:\DiplomadoXamarin\Lab02\DAL\obj\Debug\netstandard1.4\DAL.dll
 c:\DiplomadoXamarin\Lab02\DAL\obj\Debug\netstandard1.4\DAL.pdb
+c:\DiplomadoXamarin\Lab02\DAL\obj\Debug\netstandard1.4\DAL.csprojResolveAssemblyReference.cache
 c:\DiplomadoXamarin\Lab02\DAL\obj\Debug\netstandard1.4\DAL.dll.mdb
 c:\DiplomadoXamarin\Lab02\DAL\bin\Debug\netstandard1.4\DAL.dll.mdb

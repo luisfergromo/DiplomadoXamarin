@@ -109,7 +109,6 @@ class MonoPackageManager_Resources {
 		"PInvoke.Kernel32.dll",
 		"PInvoke.NCrypt.dll",
 		"PInvoke.Windows.Core.dll",
-		"SALLab02.dll",
 		"System.Net.Http.Extensions.dll",
 		"System.Net.Http.Primitives.dll",
 		"Validation.dll",
@@ -129,6 +128,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"SAL.dll",
+		"SALLab02.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
